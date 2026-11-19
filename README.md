@@ -9,7 +9,7 @@ Stable bio URL for [@lunarnewyeartet](https://www.instagram.com/lunarnewyeartet/
 | Edit here | `Operations/Sites/eglny-links` |
 | Manifest | [`data/ig-links.json`](data/ig-links.json) |
 
-`links.cpalss.com/lunarnewyeartet` redirects here. Org account hub stays at [links.cpalss.com/cpalss](https://links.cpalss.com/cpalss).
+`links.cpalss.com/lunarnewyeartet` redirects here. Org account hub is [links.cpalss.com](https://links.cpalss.com/).
 
 ## Update workflow (after every EGLNY IG post with a URL)
 
